@@ -1,0 +1,15 @@
+{
+  "name": "proyectocine",
+  "version": "1.0.0",
+  "description": "Proyecto cine con Mongo",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALEX DE LA LUZ",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
